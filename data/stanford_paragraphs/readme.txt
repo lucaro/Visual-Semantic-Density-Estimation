@@ -1,0 +1,1 @@
+Download and unzip http://visualgenome.org/static/data/dataset/paragraphs_v1.json.zip here.

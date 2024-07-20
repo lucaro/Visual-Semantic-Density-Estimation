@@ -1,0 +1,1 @@
+Download 'Textual captions only' jsonl files from https://google.github.io/localized-narratives/ and place them here.
